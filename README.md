@@ -1,8 +1,6 @@
 # Muhammed Miah
 
-Senior AI Engineer | Builder of impactful AI & ML systems
-
-[GitHub](https://github.com/borobaya) |  [LinkedIn](https://linkedin.com/in/momiah)
+[LinkedIn](https://linkedin.com/in/momiah)
 
 ## About
 
