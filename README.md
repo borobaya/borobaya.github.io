@@ -4,11 +4,13 @@ Connect with me at [LinkedIn](https://linkedin.com/in/momiah)
 
 ## About
 
-Senior AI Engineer with 10+ years of programming experience, known for delivering scalable Generative AI and ML solutions that drive strategic business outcomes.
+Builder-minded Senior AI Engineer owning and delivering Generative AI and ML solutions from idea to impact, globally and at scale. Passionate about robust engineering, complex debugging, and systems that operate in the real world. Comfortable navigating ambiguity across domains like energy, finance, and mobile gaming.
 
-I’ve led the development of impactful AI systems across multiple industries — from a £10M+/year donation platform to ML pipelines that save millions in operational costs. I combine deep technical capability with a product-focused mindset, building everything from high-performance cloud pipelines and fine-tuned image generation models to edge-deployable systems embedded in mobile SDKs.
-
-Self-taught since age 8, I bring a hacker’s creativity and an engineer’s discipline. I mentor, lead, and collaborate across cross-functional teams — from remote inspectors and ML researchers to marketing analysts and graduate cohorts.
+* 80% cost reduction in detecting asset integrity issues of multi-million dollar assets</li>
+* £6m/year marketing ROI uplift via ML-led targeting optimisation</li>
+* £800k/year content creation savings through generative image systems</li>
+* +20% LTV via edge ML deployment in hyper-casual mobile games</li>
+* 70% carbon footprint reduction via optimised resource usage</li>
 
 🔧 Key Strengths:
 
