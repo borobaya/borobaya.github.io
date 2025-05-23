@@ -1,6 +1,6 @@
 # Muhammed Miah
 
-[LinkedIn](https://linkedin.com/in/momiah)
+Connect with me at [LinkedIn](https://linkedin.com/in/momiah)
 
 ## About
 
