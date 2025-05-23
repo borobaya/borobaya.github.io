@@ -6,21 +6,23 @@ Connect with me at [LinkedIn](https://linkedin.com/in/momiah)
 
 Builder-minded Senior AI Engineer owning and delivering Generative AI and ML solutions from idea to impact, globally and at scale. Passionate about robust engineering, complex debugging, and systems that operate in the real world. Comfortable navigating ambiguity across domains like energy, finance, and mobile gaming.
 
-* 80% cost reduction in detecting asset integrity issues of multi-million dollar assets</li>
-* £6m/year marketing ROI uplift via ML-led targeting optimisation</li>
-* £800k/year content creation savings through generative image systems</li>
-* +20% LTV via edge ML deployment in hyper-casual mobile games</li>
-* 70% carbon footprint reduction via optimised resource usage</li>
+* 80% cost reduction in detecting asset integrity issues of multi-million dollar assets
+* £6m/year marketing ROI uplift via ML-led targeting optimisation
+* £800k/year content creation savings through generative image systems
+* +20% LTV via edge ML deployment in hyper-casual mobile games
+* 70% carbon footprint reduction via optimised resource usage
 
 🔧 Key Strengths:
 
-* **AI/ML Deployment at Scale** — Azure, AWS, Kubeflow, Docker, MLOps, Terraform
-* **Full ML Lifecycle** — Data engineering, modelling, evaluation, monitoring
+* **Technical Leadership** — Team building, Mentoring, Cross-team Enablement
+* **Full ML Lifecycle** — Data Engineering, Modelling, Evaluation, Monitoring, Edge Deployment
 * **Business Impact Focus** — Proven track record delivering ROI, efficiency, and value
-* **Technical Leadership** — Team building, mentoring, and cross-team enablement
 
-🔍 Specialties: Python, SQL, Java, Jupyter, Spark, ReactJS, AzureML, CV, NLP, LLMs, Time-Series Forecasting, Satellite Imagery, 3D Point Clouds
+🔍 Specialties:
 
+* **AI/ML** — Generative AI, Artificial Intelligence, Machine Learning, Data Science, Computer Vision, PyTorchOpenCV,Time-Series Forecasting, NLP, LLMs
+* **Cloud & DevOps** — Azure, AWS, AzureML, MLOps, Terraform, Docker, DevOps, Terraform
+* **Languages & Frameworks** — Python, SQL, Java, C++, Node.js, ReactJS, Spark
 
 ## Experience
 
